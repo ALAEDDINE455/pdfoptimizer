@@ -2,36 +2,25 @@
 
 > Fast, Secure & Privacy-First PDF Tools
 
-[Website]
-https://pdfoptimizer.site
+**Website:** https://pdfoptimizer.site
 
----
+PDFOptimizer is a modern online platform that provides a complete suite of PDF tools designed for speed, security, and privacy.
 
-## About
-
-PDFOptimizer is a modern online platform that provides powerful PDF tools directly in your browser.
-
-Unlike many traditional PDF services, PDFOptimizer is designed with privacy as a core principle. Whenever possible, files are processed locally inside your browser instead of being uploaded to external servers.
-
-No installation.
-No registration.
-No unnecessary uploads.
-
----
+Unlike many traditional online PDF services, PDFOptimizer processes supported operations directly inside your browser whenever possible, helping keep your documents under your control.
 
 ## Features
 
-### Compression
+### Compress
 - Compress PDF
 - Smart PDF Optimization
-- Reduce File Size
+- Reduce PDF File Size
 
 ### Merge & Split
 - Merge PDF
 - Split PDF
 - Extract Pages
-- Delete Pages
-- Rearrange Pages
+- Remove Pages
+- Organize Pages
 
 ### Convert
 - JPG to PDF
@@ -41,7 +30,7 @@ No unnecessary uploads.
 
 ### Edit
 - Rotate PDF
-- Watermark PDF
+- Add Watermark
 - Organize PDF
 
 ### Security
@@ -49,64 +38,56 @@ No unnecessary uploads.
 - Unlock PDF
 
 ### More Tools
-- PDF Repair
-- OCR (Planned)
-- AI PDF Assistant (Planned)
-
----
+- Repair PDF
+- Additional PDF utilities
 
 ## Privacy First
 
-Privacy is our highest priority.
+Privacy is one of the core principles of PDFOptimizer.
 
-For supported tools:
+For tools that support local processing:
 
-✔ Files stay on your device.
-✔ Documents are processed inside your browser.
-✔ We do not store your files.
-✔ We do not permanently upload your documents.
-✔ Your data remains under your control.
+- Files are processed directly in your browser.
+- Documents are not permanently stored.
+- Your files remain under your control.
+- No software installation is required.
 
----
+Some features may require server-side processing depending on their technical requirements. When applicable, this is handled according to our Privacy Policy.
 
 ## Why Choose PDFOptimizer?
 
-- Lightning Fast
-- Browser Based
-- Secure
-- Cross Platform
-- Mobile Friendly
-- Modern UI
-- No Installation
-- Free Online Tools
+- Fast processing
+- Modern interface
+- Browser-based tools
+- Cross-platform compatibility
+- Mobile friendly
+- Secure workflows
+- Easy to use
+- No registration required for most tools
 
----
+## Supported Platforms
 
-## Technologies
+- Windows
+- macOS
+- Linux
+- Android
+- iPhone & iPad
 
-- React
-- TypeScript
-- Browser APIs
-- WebAssembly
-- PDF.js
-- Modern Web Technologies
+Compatible with all modern browsers.
 
----
-
-## Roadmap
-
-- AI Document Analysis
-- OCR Improvements
-- Batch Processing
-- PDF API
-- Desktop Application
-- Browser Extension
-
----
-
-## Website
+## Official Website
 
 https://pdfoptimizer.site
+
+## Repository Information
+
+This GitHub repository serves as the official public repository for PDFOptimizer.
+
+The source code of the website and its services is proprietary and is not distributed through this repository.
+
+## License
+
+See LICENSE_NOTICE.md for licensing information.
 
 ---
 
